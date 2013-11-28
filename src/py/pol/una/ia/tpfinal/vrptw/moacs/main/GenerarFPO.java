@@ -1,12 +1,12 @@
-package py.pol.una.ia.tpfinal.g13.MOACS.main;
+package py.pol.una.ia.tpfinal.vrptw.moacs.main;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
-import py.pol.una.ia.tpfinal.pareto.moacs.ParetoMetricas;
-import py.pol.una.ia.tpfinal.pareto.moacs.SolucionMetricas;
+import py.pol.una.ia.tpfinal.vrptw.MOACS.pareto.ParetoMetricas;
+import py.pol.una.ia.tpfinal.vrptw.MOACS.pareto.SolucionMetricas;
 
 /**
  *

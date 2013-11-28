@@ -1,11 +1,11 @@
-package py.pol.una.ia.tpfinal.g13.MOACS.main;
+package py.pol.una.ia.tpfinal.vrptw.moacs.main;
 
 import py.pol.una.ia.tpfinal.vrptw.moacs.VRPTW;
-import py.pol.una.ia.tpfinal.moaco.moacs.MOACS;
-import py.pol.una.ia.tpfinal.pareto.moacs.Metricas;
-import py.pol.una.ia.tpfinal.pareto.moacs.ParetoMetricas;
-import py.pol.una.ia.tpfinal.pareto.moacs.SolucionMetricas;
-import py.pol.una.ia.tpfinal.solucion.moacs.SolucionVRPTW;
+import py.pol.una.ia.tpfinal.vrptw.MOACS.moaco.MOACS;
+import py.pol.una.ia.tpfinal.vrptw.MOACS.pareto.Metricas;
+import py.pol.una.ia.tpfinal.vrptw.MOACS.pareto.ParetoMetricas;
+import py.pol.una.ia.tpfinal.vrptw.MOACS.pareto.SolucionMetricas;
+import py.pol.una.ia.tpfinal.vrptw.MOACS.solucion.SolucionVRPTW;
 
 /**
  *

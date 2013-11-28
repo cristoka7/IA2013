@@ -3,7 +3,7 @@ package py.pol.una.ia.tpfinal.vrptw.moacs;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
-import py.pol.una.ia.tpfinal.solucion.moacs.SolucionVRPTW;
+import py.pol.una.ia.tpfinal.vrptw.MOACS.solucion.SolucionVRPTW;
 
 /**
  *

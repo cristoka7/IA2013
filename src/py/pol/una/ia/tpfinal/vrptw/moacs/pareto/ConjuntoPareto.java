@@ -1,10 +1,10 @@
-package py.pol.una.ia.tpfinal.pareto.moacs;
+package py.pol.una.ia.tpfinal.vrptw.MOACS.pareto;
 
 import java.io.BufferedWriter;
 import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.PrintStream;
-import py.pol.una.ia.tpfinal.solucion.moacs.SolucionVRPTW;
+import py.pol.una.ia.tpfinal.vrptw.MOACS.solucion.SolucionVRPTW;
 import py.pol.una.ia.tpfinal.vrptw.moacs.VRPTW;
 
 /**
