@@ -1,4 +1,4 @@
-package py.pol.una.ia.tpfinal.g13.moacs;
+package py.pol.una.ia.tpfinal.g13.MOACS.main;
 
 import py.pol.una.ia.tpfinal.vrptw.moacs.VRPTW;
 import py.pol.una.ia.tpfinal.moaco.moacs.MOACS;

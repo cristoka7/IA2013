@@ -1,4 +1,4 @@
-package py.pol.una.ia.tpfinal.g13.moacs;
+package py.pol.una.ia.tpfinal.g13.MOACS.main;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
